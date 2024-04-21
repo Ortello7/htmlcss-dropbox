@@ -33,6 +33,7 @@ a{
     color: black;
 }
 
-main{
-
+main section#jumbotron{
+    background-color: ■#4d0e7;
+    height: 500px;
 }
