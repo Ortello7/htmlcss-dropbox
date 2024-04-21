@@ -46,15 +46,24 @@ section#Jumbotron div.container-text{
 }
 
 .Jumbo-container{
-    max-width: 800px;
+    max-width: 880px;
     margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 footer{
     background-color: black;
     color: white;
+}
+
+footer div.Jumbo-container{
+    display: flex;
+    justify-content: center;
+}
+
+main section#business div.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 /*h1 100%, 2^30%,3^70%*/
