@@ -34,7 +34,13 @@ a{
 }
 
 main section#Jumbotron{
+    display: flex;
+    justify-content: center;
     padding-top: 2.5rem;
     padding-bottom: 1rem;
     background-color: #b4d0e7;
+}
+
+section#jumbotron div.container-text{
+    max-width: 600px;
 }
