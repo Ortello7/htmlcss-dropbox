@@ -10,6 +10,20 @@ header{
     padding: 1,5rem 1rem;
 }
 
+header nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul > li{
+    margin-right: 1rem;
+}
+
 ul{
     list-style-type: none;
+
 }
