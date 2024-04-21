@@ -33,7 +33,9 @@ a{
     color: black;
 }
 
-main section#jumbotron{
-    background-color: ■#4d0e7;
-    height: 500px;
+main section#Jumbotron{
+    padding-top: 2.5rem;
+    padding-bottom: 1rem;
+    background-color: #b4d0e7
+    ba
 }
