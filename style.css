@@ -35,12 +35,27 @@ a{
 
 main section#Jumbotron{
     display: flex;
-    justify-content: center;
     padding-top: 2.5rem;
     padding-bottom: 1rem;
     background-color: #b4d0e7;
 }
 
-section#jumbotron div.container-text{
-    max-width: 600px;
+section#Jumbotron div.container-text{
+    display: flex;
+    flex-wrap: wrap;
 }
+
+.Jumbo-container{
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+/*h1 100%, 2^30%,3^70%*/
+
