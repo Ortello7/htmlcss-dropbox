@@ -5,3 +5,11 @@
     box-sizing: border-box;
 }
 
+header{
+    background-color: white;
+    padding: 1,5rem 1rem;
+}
+
+ul{
+    list-style-type: none;
+}
